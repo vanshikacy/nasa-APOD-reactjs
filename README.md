@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NASA Picture of the Day (React)
 
 A responsive web app that fetches and displays NASA’s Astronomy Picture of the Day (APOD) using the NASA API. Built with React, Vite, and custom CSS for an interactive user experience.
@@ -17,3 +18,7 @@ A responsive web app that fetches and displays NASA’s Astronomy Picture of the
 React.js, Vite, NASA API, CSS
 
  
+=======
+# nasa-APOD-reactjs
+This project fetches an Astronomy Picture of The Day through NASA API. 
+>>>>>>> a3ecefd8250bb97f504939feeffc024870952a06
